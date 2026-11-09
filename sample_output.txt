@@ -1,0 +1,19 @@
+=============================================
+      Welcome to the Python Basic Chatbot
+=============================================
+Type 'bye', 'exit' or 'quit' to end the chat.
+
+You: hello
+Bot: Hi! Welcome to my chatbot.
+You: HOW ARE YOU
+Bot: I'm fine, thanks! How can I help you?
+You: What is your name
+Bot: I am a Python Basic Chatbot.
+You: what can you do
+Bot: I can answer simple predefined questions.
+You: thank you
+Bot: You're welcome!
+You: blah
+Bot: Sorry, I don't understand that. Please try again.
+You: Bye
+Bot: Goodbye! Have a nice day!
